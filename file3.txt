@@ -1,2 +1,3 @@
-The lazy
-Dog
+The quick
+Brown fox
+Jumps over
